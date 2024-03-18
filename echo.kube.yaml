@@ -6,7 +6,7 @@ metadata:
 apiVersion: apps/v1
 kind: Deployment
 metadata:
-  name: echoservers
+  name: echoservers1
   namespace: echoserver
 spec:
   replicas: 5
